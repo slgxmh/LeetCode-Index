@@ -1,6 +1,12 @@
 # LeetCode-Index
 
-Classify problems according to the solution
+> 解题思路简介，编程就是数据结构+算法！
 
-- Binary search
-  - 278： First Bad Version
+## 这是什么？
+
+个人刷题记录，帮助入门者开始LeetCode。尽量争取一题多解，将每种解法解释清晰。
+
+## 如何使用？
+
+使用搜索功能搜索题号，即可查看解法思路介绍的文章。
+
