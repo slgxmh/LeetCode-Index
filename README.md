@@ -38,7 +38,7 @@ A：算法极度抽象，如果随随便便都看明白了，那赶紧读数学�
 
 # 题目
 
-26：删除排序数组中的重复项-（[原链接](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)）-（[解法](./problems/26)）-（简单、数组）
+26：删除排序数组中的重复项-（[原链接](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)）-（[解法](./problems/26.md)）-（简单、数组）
 
 
 
