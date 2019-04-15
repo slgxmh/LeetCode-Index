@@ -2,10 +2,6 @@
 
 > 解题思路简介，编程就是数据结构+算法！
 
-
-
-
-
 ## 这是什么？
 
 个人刷题记录，帮助入门者开始LeetCode。尽量争取一题多解，将每种解法解释清晰。
@@ -38,11 +34,7 @@ A：算法极度抽象，如果随随便便都看明白了，那赶紧读数学�
 
 # 题目
 
+
 26：删除排序数组中的重复项-（[原链接](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)）-（[解法](./problems/26/26.md)）-（简单、数组）
 
 122:买卖股票的最佳时机 II-（[原链接](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)）-（[解法](./problems/122/122.md)）-（简单、数组）
-
-
-
-
-
