@@ -42,6 +42,8 @@ A：算法极度抽象，如果随随便便都看明白了，那赶紧读数学�
 
 122：买卖股票的最佳时机 II-（[原链接](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)）-（[解法](./problems/122/122.md)）-（简单、数组）
 
+136：只出现一次的数字-（[原链接](<https://leetcode-cn.com/problems/single-number/comments/>)）-（[解法](./problems/136/136.md)）-（简单、数组）
+
 189：旋转数组-（[原链接](https://leetcode-cn.com/problems/rotate-array/)）-（[解法](./problems/189/189.md)）-（简单、数组）
 
 217：存在重复元素-（[原链接](https://leetcode-cn.com/problems/contains-duplicate/submissions/)）-（[解法](./problems/217/217.md)）-（简单、数组）
