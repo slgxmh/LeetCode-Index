@@ -50,5 +50,7 @@ A：都可以，这对编程能力的养成没有什么影响。用IDE写，可�
 
 217：存在重复元素 -（[原链接](https://leetcode-cn.com/problems/contains-duplicate/submissions/)）-（[解法](./problems/217/217.md)）-（简单、数组）
 
+283：移动零 -（[原链接](https://leetcode-cn.com/problems/move-zeroes/)）-（[解法](./problems/283/283.md)）-（简单、数组）
+
 350：两个数组的交集 II -（[原链接](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)）-（[解法](./problems/350/350.md)）-（简单、数组）
 
