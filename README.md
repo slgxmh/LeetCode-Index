@@ -2,10 +2,6 @@
 
 > 解题思路简介，编程就是数据结构+算法！
 
-
-
-
-
 ## 这是什么？
 
 个人刷题记录，帮助入门者开始LeetCode。尽量争取一题多解，将每种解法解释清晰。
@@ -34,19 +30,25 @@ Q：答案和解析我都看不明白，怎么才能把代码搞懂？
 
 A：算法极度抽象，如果随随便便都看明白了，那赶紧读数学的研究生或者博士去，这个世界需要英雄，别在代码上浪费生命了。若感到抽象的无法理解，请赶快拿出纸笔，一步一步把算法的过程画出来，慢慢画，就会理解的。（数无形时少直觉，形少数时难入微，数形结合百般好。——华罗庚）
 
+Q：LeetCode之类的网站上写代码没有IDE方便，我该用IDE还是网页上一个一个的敲？
+
+A：都可以，这对编程能力的养成没有什么影响。用IDE写，可以利用里面强大的调试器，更容易弄明白程序的运行过程。如果需要在网页写代码的话，可以使用print调试法，将System.out.println包装成一个p(String s);函数就好了，一个字母容易输入容易删除。不要听信做算法题不能使用调试器的言论，这就如同写代码必须用emacs一样可笑。
+
 ---
 
 # 题目
 
-26：删除排序数组中的重复项-（[原链接](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)）-（[解法](./problems/26/26.md)）-（简单、数组）
+26：删除排序数组中的重复项 -（[原链接](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)）-（[解法](./problems/26/26.md)）-（简单、数组）
 
-122：买卖股票的最佳时机 II-（[原链接](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)）-（[解法](./problems/122/122.md)）-（简单、数组）
+66：加一 -（[原链接](https://leetcode-cn.com/problems/plus-one/)）-（[解法](./problems/66/66.md)）-（简单、数组）
 
-136：只出现一次的数字-（[原链接](<https://leetcode-cn.com/problems/single-number/comments/>)）-（[解法](./problems/136/136.md)）-（简单、数组）
+122：买卖股票的最佳时机 II -（[原链接](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)）-（[解法](./problems/122/122.md)）-（简单、数组）
 
-189：旋转数组-（[原链接](https://leetcode-cn.com/problems/rotate-array/)）-（[解法](./problems/189/189.md)）-（简单、数组）
+136：只出现一次的数字 -（[原链接](<https://leetcode-cn.com/problems/single-number/comments/>)）-（[解法](./problems/136/136.md)）-（简单、数组）
 
-217：存在重复元素-（[原链接](https://leetcode-cn.com/problems/contains-duplicate/submissions/)）-（[解法](./problems/217/217.md)）-（简单、数组）
+189：旋转数组 -（[原链接](https://leetcode-cn.com/problems/rotate-array/)）-（[解法](./problems/189/189.md)）-（简单、数组）
 
-350：两个数组的交集 II-（[原链接](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)）-（[解法](./problems/350/350.md)）-（简单、数组）
+217：存在重复元素 -（[原链接](https://leetcode-cn.com/problems/contains-duplicate/submissions/)）-（[解法](./problems/217/217.md)）-（简单、数组）
+
+350：两个数组的交集 II -（[原链接](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)）-（[解法](./problems/350/350.md)）-（简单、数组）
 
