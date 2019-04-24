@@ -38,6 +38,8 @@ A：都可以，这对编程能力的养成没有什么影响。用IDE写，可�
 
 # 题目
 
+1：两数之和 -（[原链接](https://leetcode-cn.com/problems/two-sum/)）-（[解法](./problems/1/1.md)）-（简单、数组）
+
 26：删除排序数组中的重复项 -（[原链接](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)）-（[解法](./problems/26/26.md)）-（简单、数组）
 
 66：加一 -（[原链接](https://leetcode-cn.com/problems/plus-one/)）-（[解法](./problems/66/66.md)）-（简单、数组）
@@ -49,6 +51,8 @@ A：都可以，这对编程能力的养成没有什么影响。用IDE写，可�
 189：旋转数组 -（[原链接](https://leetcode-cn.com/problems/rotate-array/)）-（[解法](./problems/189/189.md)）-（简单、数组）
 
 217：存在重复元素 -（[原链接](https://leetcode-cn.com/problems/contains-duplicate/submissions/)）-（[解法](./problems/217/217.md)）-（简单、数组）
+
+283：移动零 -（[原链接](https://leetcode-cn.com/problems/move-zeroes/)）-（[解法](./problems/283/283.md)）-（简单、数组）
 
 350：两个数组的交集 II -（[原链接](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)）-（[解法](./problems/350/350.md)）-（简单、数组）
 
