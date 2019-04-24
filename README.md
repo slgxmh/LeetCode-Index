@@ -38,6 +38,8 @@ A：都可以，这对编程能力的养成没有什么影响。用IDE写，可�
 
 # 题目
 
+1：两数之和 -（[原链接](https://leetcode-cn.com/problems/two-sum/)）-（[解法](./problems/1/1.md)）-（简单、数组）
+
 26：删除排序数组中的重复项 -（[原链接](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)）-（[解法](./problems/26/26.md)）-（简单、数组）
 
 66：加一 -（[原链接](https://leetcode-cn.com/problems/plus-one/)）-（[解法](./problems/66/66.md)）-（简单、数组）
