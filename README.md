@@ -44,6 +44,8 @@ A：都可以，这对编程能力的养成没有什么影响。用IDE写，可�
 
 36：有效的数独-（[原链接](https://leetcode-cn.com/problems/valid-sudoku/)）-（[解法](./problems/36/36.md)）-（中等、数组）
 
+48：旋转图像-（[原链接](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/31/)）-（[解法](./problems/48/48.md)）-（中等、数组）
+
 66：加一 -（[原链接](https://leetcode-cn.com/problems/plus-one/)）-（[解法](./problems/66/66.md)）-（简单、数组）
 
 122：买卖股票的最佳时机 II -（[原链接](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)）-（[解法](./problems/122/122.md)）-（简单、数组）
